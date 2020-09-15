@@ -1,5 +1,5 @@
 # PizzaHouse
-Assignment from my school to create a simpel program of my chooseing<br>
+Assignment from my school to create a simpel program of my choosing<br>
 ***-----PIZZAHOUSE-----***<br>
  Ths program is a pizza shop<br>
  that ask you to logg in<br>
