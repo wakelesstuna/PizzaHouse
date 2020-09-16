@@ -24,9 +24,9 @@ public class Pizza {
      * @param price the price of the pizza
      */
     public Pizza(int id, String name, double price) {
-        setId(id);
-        setName(name);
-        setPrice(price);
+        this.id = id;
+        this.name = name;
+        this.price = price;
     }
 
     public int getId() {

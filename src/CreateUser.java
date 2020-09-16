@@ -23,8 +23,8 @@ public class CreateUser {
      * @param passWord password
      */
     public CreateUser(String userName, String passWord) {
-        setUserName(userName);
-        setPassWord(passWord);
+        this.userName = userName;
+        this.passWord = passWord;
     }
 
 
